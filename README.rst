@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/ervin210/phpmyadmin.png?label=ready&title=Ready 
+ :target: https://waffle.io/ervin210/phpmyadmin?utm_source=badge
+ :alt: 'Stories in Ready'
 phpMyAdmin
 ==========
 
